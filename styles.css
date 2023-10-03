@@ -3,7 +3,9 @@
 #flex-section1 ul {
 	list-style: none;
 	display: flex;
-    justify-content: space-between; /* Distribute space evenly between buttons */
+	justify-content: space-evenly; /* Distribute space evenly between buttons */
+	padding: 0px;
+	margin: 0px;
     
 }
 
